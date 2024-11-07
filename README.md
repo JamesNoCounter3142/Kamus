@@ -1,0 +1,2 @@
+# Kamus
+Menerjemah Kata Modern
